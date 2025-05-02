@@ -49,3 +49,12 @@ Inspired by how modern LLMs use **Chain-of-Thought reasoning**, PromptBridge bri
 ```bash
 pip install -r requirements.txt
 streamlit run app/main.py
+
+
+## 📸 Examples
+
+### Raw Input → Prompt Output → AI Response
+
+![Input Example](assets/raw_input.png)  
+![Prompt Output](assets/generated_prompt_and_feedback_mechanism.png)  
+![GPT Response](assets/gpt_response.png)
