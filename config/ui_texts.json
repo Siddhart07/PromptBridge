@@ -1,0 +1,17 @@
+{
+  "input_label": "💬 Describe your task or idea:",
+  "input_placeholder": "e.g., Refactor a volatility forecasting engine using LSTM",
+
+  "generate_button": "🚀 Generate Prompt",
+
+  "generated_prompt_label": "📝 Generated Prompt",
+
+  "feedback_label": "📊 Feedback",
+
+  "relevance_label": "How relevant was the prompt? (1 = Not relevant, 5 = Highly relevant)",
+  "edit_effort_label": "How much editing did you need? (1 = No edits, 5 = Major edits)",
+  "satisfaction_label": "How satisfied are you with this prompt?",
+  "seconds_spent_label": "Approx. seconds you spent editing the prompt:",
+  "additional_comments_label": "Any additional comments or suggestions:",
+  "submit_feedback_button": "Submit Feedback"
+}
